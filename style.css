@@ -1,0 +1,121 @@
+body{
+  font-family: 'Averia Libre', cursive;
+  line-height: 250%;
+  background-color:#dad7f9;
+}
+header{
+font-size:220%;
+text-align: center;
+padding: 2% 5%;
+color: #9e39e4;
+font-weight: 800;
+letter-spacing: .2em;
+}
+a:link {
+  color: #9e39e4;
+  font-weight:600;
+}
+
+a{
+  color: #9e39e4;
+  font-weight: 600;
+  word-spacing: .1em;
+}
+
+#quote{
+  text-align: center;
+  padding: 2% 0;
+  font-style: italic;
+  font-weight: 600;
+  word-spacing: .3em;
+  color: black;
+
+}
+nav a{
+margin: 0 7%;
+display:inline-block;
+border: 5% black dashed;
+width: 5%;
+text-align: center;
+font-size: 110%;
+padding: 3% 0;
+letter-spacing: .1em;
+
+}
+.floatleft{
+  float: left;
+  padding: 0 3%;
+}
+#resumewrapper{
+  line-height: 175%;
+}
+#columnwrapper {
+  margin: 0%;
+  padding-left: 7.9%;
+}
+.column {
+  box-sizing: border-box;
+  width:40%;
+  float: left;
+  padding-right: 5%;
+}
+h4 {
+  text-decoration: underline;
+  font-weight: bold;
+  font-size: 1.4em;
+  margin:0;
+  margin-top: 3px;
+  font-family: <link href='http://fonts.googleapis.com/css?family=Droid+Serif:400,700' rel='stylesheet' type='text/css'>;
+  color: #9e39e4;
+}
+h1{
+
+  text-align:left;
+  color: black;
+}
+
+#writtingexamples{
+  width: 300px;
+  padding-left:15px;
+  padding-right:15px;
+  padding-top: 15px;
+  padding-bottom: 100px;
+  margin-left:15%;
+  margin-right:10.5%;
+  box-sizing: border-box;
+  float: left;
+  border: 5px solid #9e39e4;
+  clear: both;
+
+
+}
+
+#presentations{
+  width: 300px;
+  padding: 15px;
+  box-sizing: border-box;
+  float: left;
+  border: 5px solid #9e39e4;
+
+
+}
+
+.ColoredText{
+  color: #9e39e4;
+  font-weight:bold;
+}
+
+#about{
+font-weight: 400;
+}
+}
+#boxes{
+  width: 100%;
+  line-height:175%;
+}
+#pic1 {
+  padding-top: 10%;
+  float:left;
+  width: 300px;
+
+}
